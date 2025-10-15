@@ -16,7 +16,7 @@ export const bangs = [
     r: 0,
     s: "claude",
     sc: "AI",
-    t: "cai",
+    t: "claude",
     u: "https://claude.ai/new?q={{{s}}}",
   },
   {
@@ -25,7 +25,7 @@ export const bangs = [
     r: 0,
     s: "ChatGPT",
     sc: "AI",
-    t: "cgpt",
+    t: "chatgpt",
     u: "https://www.chatgpt.com/?temporary-chat=true&q={{{s}}}",
   },
   {
@@ -34,7 +34,7 @@ export const bangs = [
     r: 0,
     s: "Perplexity",
     sc: "AI",
-    t: "pr",
+    t: "ppx",
     u: "https://www.perplexity.ai/search?s=o&q={{{s}}}",
   },
   {
