@@ -29,6 +29,15 @@ export const bangs = [
     u: "https://www.chatgpt.com/?temporary-chat=true&q={{{s}}}",
   },
   {
+    c: "AI",
+    d: "www.perplexity.ai",
+    r: 0,
+    s: "Perplexity",
+    sc: "AI",
+    t: "pr",
+    u: "https://www.perplexity.ai/search?s=o&q={{{s}}}",
+  },
+  {
     c: "Tech",
     d: "www.01net.com",
     r: 4,
@@ -84595,15 +84604,6 @@ export const bangs = [
     sc: "Reference (words)",
     t: "prpm",
     u: "http://prpm.dbp.gov.my/Search.aspx?k={{{s}}}",
-  },
-  {
-    c: "Research",
-    d: "ar.prvademecum.com",
-    r: 10,
-    s: "PR Vademecum Argentina",
-    sc: "Health",
-    t: "pr",
-    u: "http://ar.prvademecum.com/?s={{{s}}}",
   },
   {
     c: "Tech",
